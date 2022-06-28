@@ -15,10 +15,9 @@ ol {
     font-size: 15px;
 }
 
-ul {
+ul li {
     color: brown;
-    font-display: 1px;
-    font-family: monospace;
+    letter-spacing: 5px;
 }
 
 p {
